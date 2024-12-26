@@ -50,3 +50,11 @@ Una vez que hayas instalado el proyecto, puedes ejecutarlo con el siguiente coma
 ```bash
 npm run serve
 ```
+
+***
+
+### Consejos adicionales:
+
+- **Sé claro y conciso**: La documentación debe ser fácil de entender y evitar ser demasiado técnica o complicada.
+- **Usa imágenes**: Si es necesario, incluye capturas de pantalla o GIFs para ilustrar cómo funciona tu proyecto.
+- **Actualiza regularmente**: Mantén tu README actualizado a medida que tu proyecto evoluciona.
